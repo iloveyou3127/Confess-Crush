@@ -10,7 +10,7 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'thich lamm<3',
     btnNo: 'khongg nhă>:(',
-    question: '....mà sao anh lai yêu em 🙁?',
+    question: 'trên thế giới có hơn 7 tỉ người mà sao anh lai yêu em:(?',
     btnReply: 'kinh gui nhỏ đầu moi:>',
     reply: 'iu thi iu kim chi=))))',
     mess: 'ge vay sao oke nhe iu anhh<',
