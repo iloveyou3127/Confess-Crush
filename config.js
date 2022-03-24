@@ -15,6 +15,6 @@ const CONFIG = {
     reply: ' iu ta thì nói chứ ngại gi :)) kì ghe',
     mess: ' biet ma, ngại qua cơ ',
     messDesc: 'bank cho chục tỉ roi đi chơi :v',
-    btnAccept: 'oki luon<33',
+    btnAccept: 'okiiii luon<33',
     messLink: 'https://www.facebook.com/zenith.307/' 
 }
