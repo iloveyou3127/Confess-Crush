@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'trả lời mauu',
     reply: ' iu ta thì nói chứ ngại gi :)) kì ge',
     mess: ' biet ma, ngại qua cơ ',
-    messDesc: 'bank cho chục tỉ roi đi chơi',
+    messDesc: 'bank cho chục tỉ roi đi chơi :v',
     btnAccept: 'oki luon<33',
     messLink: 'https://www.facebook.com/zenith.307/' 
 }
