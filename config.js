@@ -11,7 +11,7 @@ const CONFIG = {
     btnYes: 'thich lamm<3',
     btnNo: 'khongg nhă>:(',
     question: '....mà sao anh lai yêu em 🙁?',
-    btnReply: 'kinh gui anhh:>',
+    btnReply: 'kinh gui nhỏ đầu moi:>',
     reply: 'iu thi iu kim chi=))))',
     mess: 'ge vay sao oke nhe iu anhh<',
     messDesc: ' anh to^`i vai nhma iu anhh ✨.',
