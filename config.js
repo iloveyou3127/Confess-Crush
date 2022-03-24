@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'nopee :(',
     question: 'trên thế giới có hơn 7 tỉ người mà sao lại chọn ta',
     btnReply: 'trả lời mauu',
-    reply: ' iu ta thì nói chứ ngại gi :)) kì ge',
+    reply: ' iu ta thì nói chứ ngại gi :)) kì ghe',
     mess: ' biet ma, ngại qua cơ ',
     messDesc: 'bank cho chục tỉ roi đi chơi :v',
     btnAccept: 'oki luon<33',
