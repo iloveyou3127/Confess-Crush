@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "chao anh",
-    introTitle: ' bbi Thien',
+    titleWeb: "chao mấy ghệ đẹp cụa ta",
+    introTitle: ' ghệ cụa thầy ông nội :>',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao mấy đứa cứ đi nhầm đường
+    Lạc vào tim ta lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hehe🐸',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'thich lamm<3',
-    btnNo: 'khongg nhă>:(',
-    question: '...mà sao anh lai yêu em 🙁?',
-    btnReply: 'kinh gui anhh:>',
-    reply: ' iu thi iu kim chi=))))',
-    mess: ' ge vay sao,oke nhe iu anhh<3',
-    messDesc: 'anh to^`i vai nhma iu anhh ✨.',
-    btnAccept: 'oki nhe <33',
-    messLink: 'https://www.facebook.com/kymchie.1911' 
+    btnIntro: 'ehehe',
+    title: 'Phải chăng các ngươi đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng mấy đứa đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'yêu lắm :3',
+    btnNo: 'nopee :(',
+    question: 'trên thế giới có hơn 7 tỉ người mà sao lại chọn ta',
+    btnReply: 'trả lời mauu',
+    reply: ' iu ta thì nói chứ ngại gi :)) kì ge',
+    mess: ' biet ma, ngại qua cơ ',
+    messDesc: 'bank cho chục tỉ roi đi chơi',
+    btnAccept: 'oki luon<33',
+    messLink: 'https://www.facebook.com/zenith.307/' 
 }
